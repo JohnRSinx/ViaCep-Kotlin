@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Via Cep</string>
+    <string name="cep">Cep</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="neighborhood">Bairro</string>
+    <string name="city">cidade</string>
+    <string name="number">Numero</string>
+    <string name="State">Estado</string>
+</resources>
